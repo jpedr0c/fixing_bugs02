@@ -1,13 +1,13 @@
-# Corrigindo bugs 02 - Stage 02 (Explorer)
+# Fixing bugs 02 - Stage 02 (Explorer)
 
-### Linguagens usadas: HTML e CSS
+### Used languages: HTML e CSS
 
-<p>=> Nesse outro desafio recebemos um código diferente do primeiro mas que também estava quebrado e nossa missão é consertá-lo e deixar do jeito que está no projeto do Figma.</p>
+<p>=> In this other challenge I received a different code from the first one but it was also broken and the goal was to fix it and leave it the way it's on Figma.</p>
 
-## Projeto quebrado
+## Broken
 <img style="width:700px" src="images/project_broken.png"/>
 
 ##
 
-## Projeto finalizado
+## Finished
 <img style="width:700px" src="images/project_finish.png"/>
